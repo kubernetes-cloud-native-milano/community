@@ -19,7 +19,7 @@ Take a look at our [Code of conduct](CODE-OF-CONDUCT.md).
 
 Ci sono tanti modi per contribuire al Kubernetes & Cloud-Native Milano: partecipare ad un evento, suggerire un argomento da trattare in un meetup, proporre un talk, aiutare all'organizzazione degli eventi, sponsorship etc. 
 
-### Partecpare ad un evento
+### Partecipare ad un evento
 
 Partecipare ad un evento è semplicissimo!
 
