@@ -2,7 +2,7 @@
 
 Welcome to the Kubernetes & Cloud-Native Milano !
 
-This is the starting point for joining and contributing to theKubernetes & Cloud-Native Milano community - providing feedbacks, suggestions, proposing talks etc.
+This is the starting point for joining and contributing to the Kubernetes & Cloud-Native Milano community - providing feedbacks, suggestions, proposing talks etc.
 
 ---------
 
