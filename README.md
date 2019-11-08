@@ -25,6 +25,10 @@ Partecipare ad un evento è semplicissimo!
 
 Vai su https://www.meetup.com/kubernetes-and-cloud-native-milano/ scegli un evento di interesse tra la lista di eventi in programma (upcoming events), e conferma la tua partecipazione.
 
+### Archivio
+
+Presentazioni e altro materiale raccolto negli eventi passati.
+[archivio](archive/README.md)
 
 ### Suggerire un tema di interesse
 
