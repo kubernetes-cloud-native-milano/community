@@ -57,6 +57,8 @@ L'asseganzione degli slot, salvo eccezzioni decise di volta in volta nell'intere
 3. equilibrio tra i diversi vendor che propongo sponsored Talk (idealmente a rotazione con un intervallo minimo di 6 mesi)
 4. equilibrio tra i doverso speaker (idealmente a rotazione con un intervallo minimo di 3 mesi)
 
+[A questo link](https://docs.google.com/spreadsheets/d/1ltICl4OQ9LbJcxK3kOdCgq_12k7SpZ3JSp9hqL9oIng/edit?usp=sharing) puoi trovare la lista dei talk proposti e il calendario dei prossimi incontri.
+
 ### Sponsorship
 
 L'organizzazione di un meetup richiede lavoro e risorse: la location, il rinfresco, gli swag etc. etc.
